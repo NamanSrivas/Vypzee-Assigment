@@ -39,6 +39,12 @@ A modern shopping list web application built with React and Node.js/Express.
    ```
    App opens at: `http://localhost:3000`
 
+## Demo Video
+
+🎥 **[Watch the 30-second demo video](./demo-video.mp4)**
+
+The demo showcases all key features including adding items, editing, marking as complete, filtering, and deleting items.
+
 ## Features
 - Add, edit, and delete shopping items
 - Mark items as complete/incomplete
